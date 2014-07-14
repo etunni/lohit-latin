@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="shadeva_viramadeva_alt" format="1">
+  <advance width="366"/>
+  <outline>
+    <contour>
+      <point x="240" y="459" type="qcurve"/>
+      <point x="272" y="481"/>
+      <point x="306" y="534"/>
+      <point x="306" y="559" type="qcurve" smooth="yes"/>
+      <point x="306" y="585"/>
+      <point x="264" y="619"/>
+      <point x="233" y="619" type="qcurve" smooth="yes"/>
+      <point x="205" y="619"/>
+      <point x="166" y="585"/>
+      <point x="166" y="559" type="qcurve" smooth="yes"/>
+      <point x="166" y="533"/>
+      <point x="205" y="479"/>
+    </contour>
+    <contour>
+      <point x="479" y="253" type="line"/>
+      <point x="240" y="393" type="line"/>
+      <point x="190" y="352"/>
+      <point x="95" y="289"/>
+      <point x="47" y="266" type="qcurve"/>
+      <point x="13" y="313" type="line"/>
+      <point x="75" y="349"/>
+      <point x="161" y="405"/>
+      <point x="186" y="426" type="qcurve"/>
+      <point x="146" y="449"/>
+      <point x="100" y="521"/>
+      <point x="100" y="559" type="qcurve" smooth="yes"/>
+      <point x="100" y="611"/>
+      <point x="178" y="686"/>
+      <point x="233" y="686" type="qcurve" smooth="yes"/>
+      <point x="290" y="686"/>
+      <point x="373" y="611"/>
+      <point x="373" y="559" type="qcurve" smooth="yes"/>
+      <point x="373" y="529"/>
+      <point x="334" y="462"/>
+      <point x="300" y="433" type="qcurve"/>
+      <point x="479" y="326" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

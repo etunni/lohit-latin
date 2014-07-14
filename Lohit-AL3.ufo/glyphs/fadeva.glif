@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fadeva" format="1">
+  <advance width="765"/>
+  <unicode hex="095E"/>
+  <outline>
+    <contour>
+      <point x="379" y="664" type="move" name="DVAnchor3"/>
+    </contour>
+    <contour>
+      <point x="380" y="21" type="move" name="DVAnchor0"/>
+    </contour>
+    <contour>
+      <point x="172" y="-7" type="line"/>
+      <point x="119" y="43" type="line"/>
+      <point x="172" y="93" type="line"/>
+      <point x="225" y="43" type="line"/>
+    </contour>
+    <component base="phadeva" xOffset="1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ecandralongsigndeva" format="1">
+  <advance width="0"/>
+  <unicode hex="0955"/>
+  <outline>
+    <contour>
+      <point x="-120" y="666" type="move" name="_DVAnchor3"/>
+    </contour>
+    <contour>
+      <point x="71" y="726" type="line"/>
+      <point x="-323" y="726" type="line"/>
+      <point x="-323" y="776" type="line"/>
+      <point x="71" y="776" type="line"/>
+    </contour>
+    <contour>
+      <point x="-127" y="819" type="qcurve"/>
+      <point x="-200" y="819"/>
+      <point x="-313" y="921"/>
+      <point x="-326" y="999" type="qcurve"/>
+      <point x="-260" y="999" type="line"/>
+      <point x="-250" y="945"/>
+      <point x="-174" y="873"/>
+      <point x="-127" y="873" type="qcurve" smooth="yes"/>
+      <point x="-79" y="873"/>
+      <point x="-3" y="945"/>
+      <point x="7" y="999" type="qcurve"/>
+      <point x="73" y="999" type="line"/>
+      <point x="60" y="921"/>
+      <point x="-53" y="819"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

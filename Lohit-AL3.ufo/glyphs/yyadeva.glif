@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yyadeva" format="1">
+  <advance width="596"/>
+  <unicode hex="095F"/>
+  <outline>
+    <contour>
+      <point x="465" y="665" type="move" name="DVAnchor3"/>
+    </contour>
+    <contour>
+      <point x="164" y="-7" type="line"/>
+      <point x="111" y="40" type="line"/>
+      <point x="164" y="93" type="line"/>
+      <point x="217" y="40" type="line"/>
+    </contour>
+    <component base="yadeva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="radeva_viramadeva.alt" format="1">
+  <advance width="287"/>
+  <outline>
+    <contour>
+      <point x="-13" y="606" type="line"/>
+      <point x="-13" y="666" type="line"/>
+      <point x="301" y="666" type="line"/>
+      <point x="301" y="606" type="line"/>
+    </contour>
+    <contour>
+      <point x="201" y="293" type="qcurve"/>
+      <point x="161" y="293"/>
+      <point x="65" y="324"/>
+      <point x="15" y="353" type="qcurve"/>
+      <point x="15" y="413" type="line"/>
+      <point x="71" y="386"/>
+      <point x="165" y="360"/>
+      <point x="201" y="360" type="qcurve" smooth="yes"/>
+      <point x="222" y="360"/>
+      <point x="280" y="377"/>
+      <point x="314" y="393" type="qcurve"/>
+      <point x="314" y="320" type="line"/>
+      <point x="286" y="306"/>
+      <point x="229" y="293"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

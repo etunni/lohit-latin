@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="udeva" format="1">
+  <advance width="631"/>
+  <unicode hex="0909"/>
+  <outline>
+    <contour>
+      <point x="461" y="664" type="move" name="DVAnchor3"/>
+    </contour>
+    <contour>
+      <point x="-13" y="606" type="line"/>
+      <point x="-13" y="666" type="line"/>
+      <point x="644" y="666" type="line"/>
+      <point x="644" y="606" type="line"/>
+      <point x="502" y="606" type="line"/>
+      <point x="522" y="583"/>
+      <point x="542" y="527"/>
+      <point x="542" y="499" type="qcurve" smooth="yes"/>
+      <point x="542" y="455"/>
+      <point x="506" y="384"/>
+      <point x="475" y="366" type="qcurve"/>
+      <point x="518" y="352"/>
+      <point x="569" y="264"/>
+      <point x="569" y="206" type="qcurve" smooth="yes"/>
+      <point x="569" y="129"/>
+      <point x="463" y="20"/>
+      <point x="389" y="20" type="qcurve" smooth="yes"/>
+      <point x="286" y="20"/>
+      <point x="95" y="237"/>
+      <point x="23" y="433" type="qcurve"/>
+      <point x="77" y="457" type="line"/>
+      <point x="141" y="281"/>
+      <point x="305" y="87"/>
+      <point x="389" y="87" type="qcurve" smooth="yes"/>
+      <point x="435" y="87"/>
+      <point x="502" y="157"/>
+      <point x="502" y="206" type="qcurve" smooth="yes"/>
+      <point x="502" y="261"/>
+      <point x="439" y="340"/>
+      <point x="395" y="340" type="qcurve"/>
+      <point x="262" y="340" type="line"/>
+      <point x="236" y="399" type="line"/>
+      <point x="382" y="399" type="line" smooth="yes"/>
+      <point x="421" y="399"/>
+      <point x="475" y="458"/>
+      <point x="475" y="499" type="qcurve" smooth="yes"/>
+      <point x="475" y="527"/>
+      <point x="443" y="583"/>
+      <point x="415" y="606" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

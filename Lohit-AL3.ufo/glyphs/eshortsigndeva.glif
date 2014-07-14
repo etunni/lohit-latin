@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eshortsigndeva" format="1">
+  <advance width="0"/>
+  <unicode hex="0946"/>
+  <outline>
+    <contour>
+      <point x="-127" y="665" type="move" name="_DVAnchor3"/>
+    </contour>
+    <contour>
+      <point x="-296" y="807" type="qcurve"/>
+      <point x="-369" y="807"/>
+      <point x="-482" y="908"/>
+      <point x="-495" y="987" type="qcurve"/>
+      <point x="-429" y="987" type="line"/>
+      <point x="-419" y="932"/>
+      <point x="-344" y="860"/>
+      <point x="-296" y="860" type="qcurve" smooth="yes"/>
+      <point x="-213" y="860"/>
+      <point x="-96" y="747"/>
+      <point x="-96" y="667" type="qcurve"/>
+      <point x="-162" y="667" type="line"/>
+      <point x="-162" y="724"/>
+      <point x="-241" y="807"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

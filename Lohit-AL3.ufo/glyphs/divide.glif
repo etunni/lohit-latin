@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="divide" format="1">
+  <advance width="832"/>
+  <unicode hex="00F7"/>
+  <outline>
+    <contour>
+      <point x="499" y="107" type="qcurve"/>
+      <point x="499" y="73"/>
+      <point x="453" y="27"/>
+      <point x="419" y="27" type="qcurve" smooth="yes"/>
+      <point x="389" y="27"/>
+      <point x="346" y="73"/>
+      <point x="346" y="107" type="qcurve" smooth="yes"/>
+      <point x="346" y="137"/>
+      <point x="389" y="180"/>
+      <point x="419" y="180" type="qcurve" smooth="yes"/>
+      <point x="453" y="180"/>
+      <point x="499" y="137"/>
+    </contour>
+    <contour>
+      <point x="732" y="286" type="line"/>
+      <point x="100" y="286" type="line"/>
+      <point x="100" y="366" type="line"/>
+      <point x="732" y="366" type="line"/>
+    </contour>
+    <contour>
+      <point x="499" y="553" type="qcurve"/>
+      <point x="499" y="519"/>
+      <point x="453" y="473"/>
+      <point x="419" y="473" type="qcurve" smooth="yes"/>
+      <point x="389" y="473"/>
+      <point x="346" y="519"/>
+      <point x="346" y="553" type="qcurve" smooth="yes"/>
+      <point x="346" y="586"/>
+      <point x="393" y="633"/>
+      <point x="426" y="633" type="qcurve" smooth="yes"/>
+      <point x="457" y="633"/>
+      <point x="499" y="586"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

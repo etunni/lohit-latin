@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ninedeva" format="1">
+  <advance width="664"/>
+  <unicode hex="096F"/>
+  <outline>
+    <contour>
+      <point x="302" y="406" type="qcurve"/>
+      <point x="346" y="406"/>
+      <point x="409" y="481"/>
+      <point x="409" y="533" type="qcurve" smooth="yes"/>
+      <point x="409" y="582"/>
+      <point x="346" y="652"/>
+      <point x="302" y="652" type="qcurve" smooth="yes"/>
+      <point x="253" y="652"/>
+      <point x="182" y="582"/>
+      <point x="182" y="533" type="qcurve" smooth="yes"/>
+      <point x="182" y="481"/>
+      <point x="253" y="406"/>
+    </contour>
+    <contour>
+      <point x="415" y="-93" type="qcurve"/>
+      <point x="395" y="-33" type="line"/>
+      <point x="431" y="-33"/>
+      <point x="482" y="-5"/>
+      <point x="482" y="13" type="qcurve" smooth="yes"/>
+      <point x="482" y="24"/>
+      <point x="459" y="57"/>
+      <point x="435" y="87" type="qcurve"/>
+      <point x="229" y="313" type="line"/>
+      <point x="174" y="368"/>
+      <point x="116" y="489"/>
+      <point x="116" y="546" type="qcurve" smooth="yes"/>
+      <point x="116" y="621"/>
+      <point x="225" y="726"/>
+      <point x="302" y="726" type="qcurve" smooth="yes"/>
+      <point x="377" y="726"/>
+      <point x="482" y="613"/>
+      <point x="482" y="533" type="qcurve" smooth="yes"/>
+      <point x="482" y="455"/>
+      <point x="393" y="346"/>
+      <point x="329" y="346" type="qcurve" smooth="yes"/>
+      <point x="324" y="346"/>
+      <point x="304" y="349"/>
+      <point x="282" y="353" type="qcurve"/>
+      <point x="509" y="100" type="line" smooth="yes"/>
+      <point x="529" y="77"/>
+      <point x="549" y="32"/>
+      <point x="549" y="13" type="qcurve" smooth="yes"/>
+      <point x="549" y="-27"/>
+      <point x="471" y="-88"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

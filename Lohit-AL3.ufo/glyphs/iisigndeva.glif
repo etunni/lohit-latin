@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iisigndeva" format="1">
+  <advance width="266"/>
+  <unicode hex="0940"/>
+  <outline>
+    <contour>
+      <point x="-13" y="606" type="line"/>
+      <point x="-13" y="666" type="line"/>
+      <point x="100" y="666" type="line"/>
+      <point x="83" y="762"/>
+      <point x="-8" y="886"/>
+      <point x="-60" y="886" type="qcurve" smooth="yes"/>
+      <point x="-99" y="886"/>
+      <point x="-153" y="835"/>
+      <point x="-153" y="799" type="qcurve" smooth="yes"/>
+      <point x="-153" y="767"/>
+      <point x="-125" y="704"/>
+      <point x="-100" y="679" type="qcurve"/>
+      <point x="-173" y="679" type="line"/>
+      <point x="-196" y="702"/>
+      <point x="-220" y="764"/>
+      <point x="-220" y="799" type="qcurve" smooth="yes"/>
+      <point x="-220" y="860"/>
+      <point x="-127" y="945"/>
+      <point x="-60" y="945" type="qcurve" smooth="yes"/>
+      <point x="17" y="945"/>
+      <point x="145" y="787"/>
+      <point x="166" y="666" type="qcurve"/>
+      <point x="280" y="666" type="line"/>
+      <point x="280" y="606" type="line"/>
+      <point x="166" y="606" type="line"/>
+      <point x="166" y="0" type="line"/>
+      <point x="100" y="0" type="line"/>
+      <point x="100" y="606" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

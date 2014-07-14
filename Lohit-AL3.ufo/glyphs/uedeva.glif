@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uedeva" format="1">
+  <advance width="768"/>
+  <unicode hex="0976"/>
+  <outline>
+    <contour>
+      <point x="640" y="711" type="move" name="DVAnchor0"/>
+    </contour>
+    <component base="adeva"/>
+    <component base="uesigndeva" xOffset="700"/>
+  </outline>
+</glyph>

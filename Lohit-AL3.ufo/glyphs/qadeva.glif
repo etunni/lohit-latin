@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="qadeva" format="1">
+  <advance width="753"/>
+  <unicode hex="0958"/>
+  <outline>
+    <contour>
+      <point x="385" y="664" type="move" name="DVAnchor3"/>
+    </contour>
+    <contour>
+      <point x="386" y="23" type="move" name="DVAnchor0"/>
+    </contour>
+    <contour>
+      <point x="204" y="-13" type="line"/>
+      <point x="150" y="40" type="line"/>
+      <point x="204" y="93" type="line"/>
+      <point x="257" y="40" type="line"/>
+    </contour>
+    <component base="kadeva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

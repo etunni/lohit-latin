@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dddhadeva" format="1">
+  <advance width="632"/>
+  <unicode hex="095C"/>
+  <outline>
+    <contour>
+      <point x="502" y="664" type="move" name="DVAnchor3"/>
+    </contour>
+    <contour>
+      <point x="407" y="50" type="move" name="DVAnchor0"/>
+    </contour>
+    <contour>
+      <point x="385" y="-133" type="line"/>
+      <point x="325" y="-87" type="line"/>
+      <point x="385" y="-40" type="line"/>
+      <point x="445" y="-87" type="line"/>
+    </contour>
+    <component base="ddadeva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
